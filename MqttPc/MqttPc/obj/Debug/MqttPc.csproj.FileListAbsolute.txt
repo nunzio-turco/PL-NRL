@@ -1,0 +1,8 @@
+C:\Users\nunxy\Documents\Visual Studio 2013\Projects\MqttPc\MqttPc\bin\Debug\MqttPc.exe.config
+C:\Users\nunxy\Documents\Visual Studio 2013\Projects\MqttPc\MqttPc\bin\Debug\MqttPc.exe
+C:\Users\nunxy\Documents\Visual Studio 2013\Projects\MqttPc\MqttPc\bin\Debug\MqttPc.pdb
+C:\Users\nunxy\Documents\Visual Studio 2013\Projects\MqttPc\MqttPc\bin\Debug\M2Mqtt.Net.dll
+C:\Users\nunxy\Documents\Visual Studio 2013\Projects\MqttPc\MqttPc\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\nunxy\Documents\Visual Studio 2013\Projects\MqttPc\MqttPc\obj\Debug\MqttPc.csprojResolveAssemblyReference.cache
+C:\Users\nunxy\Documents\Visual Studio 2013\Projects\MqttPc\MqttPc\obj\Debug\MqttPc.exe
+C:\Users\nunxy\Documents\Visual Studio 2013\Projects\MqttPc\MqttPc\obj\Debug\MqttPc.pdb
